@@ -1,0 +1,2 @@
+# latiendita
+proyecto de tendencias
